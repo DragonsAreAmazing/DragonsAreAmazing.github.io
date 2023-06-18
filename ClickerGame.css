@@ -1,0 +1,54 @@
+body {
+    background: midnightblue;
+  }
+
+
+  button {
+    background: darkred;
+    color: white;
+    text-align: center;
+    border: black;
+    border-style: outset;
+    width: px;
+    height: 30px;
+  }
+
+  .acheivs {
+    color: White;
+    font-size: 20px;
+  }
+
+  .upgrades {
+    color: white;
+    margin-top: 10px;
+    width: 500px;
+    text-align: center;
+  }
+
+  .cool {
+    margin-right: 10px;
+    margin-bottom: 10px;
+  }
+
+  .Rick {
+    color: darkred;
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+  }
+
+  .basic {
+    color: white;
+    text-align: center;
+  }
+
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+  .center2 {
+    text-align: center;
+  }
